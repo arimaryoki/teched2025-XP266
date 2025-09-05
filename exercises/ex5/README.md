@@ -19,6 +19,7 @@ In this exercise, we will create verify the pipeline job status covering the dif
 3. Select the node ... and navigate to the import queue.
 4. Look for your transport ID.
 5. The transport will appear in status "Initial".
+6. Test
 
 ## Summary
 
