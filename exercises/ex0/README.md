@@ -38,7 +38,7 @@ At the end, you will access the SAP BTP cockpit and SAP BTP accounts that have b
 
 | Account Name              | Type        |                                                                                                                                Description |
 | :------------------------ | :---------: | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| XP266_CALM                |  Shared     | This BTP subaccount includes are instance of SAP Cloud ALM, which will be shared by all participants of this hands-on session.             |
+| XP266_CALM                |  Shared     | This BTP subaccount includes an instance of SAP Cloud ALM, which will be shared by all participants of this hands-on session.             |
 | XP266_CENTRAL             |  Dedicated  | The BTP subaccount named **CENTRAL** contains central services and acts as a central administrative subaccount.                           |
 | XP266_DEV                 |  Dedicated  | In this BTP subaccount **DEV** development is done. It contains instances of SAP Build, SAP Content Agent services and SAP Mobile Services.|
 | XP266_QA                  |  Dedicated  | **QA** is one of the target SAP BTP subaccount where transport requests will be deployed to during this session.                              |
