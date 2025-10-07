@@ -7,7 +7,7 @@ In this exercise, you will create a new transport request using **SAP Content Ag
 1. In SAP BTP cockpit, navigate to your development SAP BTP subaccount named `XP266_DEV`. 
 2. Go to **Services** > **Instances and Subscription** and open **SAP Build Code** in the Subscriptions area.
         <br>![](../ex3/images/btp_buildcode.png)
-3. The SAP Build Lobby will open. To establish a new development project, click on **Create** > **Clone from Git**.
+3. The SAP Build Lobby will open. To establish a new development project, click on **Create** > **Create**.
         <br>![](../ex4/images/sapbuild_lobby_create.png)
 4. In Create project popup, set the objective as **Application**, and click **Next**.
         <br>![](../ex4/images/sapbuild_create_project_objective.png)
