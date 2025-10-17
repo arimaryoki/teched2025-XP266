@@ -20,13 +20,14 @@ In this exercise, we will manage the assignment and deployment of Cloud Transpor
 6. **Select the transport for your Fiori app** and click "Assign". Additionally, select the transport for your Mobile Services app if you've performed the optional exercise.
 
     <br>![alt text](../ex6/images/transport_select.png)
-7. Save and Close the Feature.
+7. **Save and Close** the Feature.
 
-8. The transports are assigned to your Feature.
+8. The **transports are assigned** to your Feature.
 
     <br>![alt text](../ex6/images/transport_assigned.png)
 
-   
+Congratulations! You have successfully documented your changes in the Feature.
+
 ## Exercise 6.1 - Deploy and monitor changes in your Quality Assurance and Production environment
 
 1. The **transports in the Transports** section are **released** and show the **CTMS target node** as target tenant.
@@ -49,7 +50,7 @@ In this exercise, we will manage the assignment and deployment of Cloud Transpor
     <br>![alt text](../ex6/images/handover_test.png)
 6. Let's assume the test has been successful - click on action button **"Confirm Successful Test"**.
 
-7. Click on **"Analytics"** in the top right corner to **access the Feature Traceability**.
+7. Click on **"Analytics"** in the top right corner of the Features Overview list to **access the Feature Traceability**.
 
     <br>![alt text](../ex6/images/feature_traceability_nav.png)
 8. There you can check whether your Feature is in **status "Successfully Tested"**.
@@ -58,16 +59,18 @@ In this exercise, we will manage the assignment and deployment of Cloud Transpor
 9. Navigate back to the Feature and **approve the Feature for Production** by clicking "Approve for Production".
 
     <br>![alt text](../ex6/images/approve_for_prod.png)
-10. In status "Approved for Production" you can **trigger the deployment to production by clicking "Deploy"** in the Transports section. Confirm the dialog for the deployment to target tenant PRD.
+10. In status "Ready for Production" you can **trigger the deployment to production by clicking "Deploy"** in the Transports section. Confirm the dialog for the deployment to target tenant PRD.
 
     <br>![alt text](../ex6/images/deploy_to_prod.png)
 11. Refresh the section to retrieve the import results.
 
     <br>![alt text](../ex6/images/deployed_in_PRD.png)
 
+This concludes your deployment to production. Awesome!
+
 ## Exercise 6.2 - Find and access the deployed applications
 
-1. Before confirming the Feature deployment to production you can check your deployed applications in the production environment. In your BTP subaccount named with XP266_PROD0XX in the SAP BTP cockpit, go to Cloud Foundry Environment and select the **dev** space.
+1. Before confirming the Feature deployment to production you can check your deployed applications in the production environment. In your BTP subaccount named with XP266_PROD0XX in the SAP BTP cockpit, **go to Cloud Foundry Environment and select the dev space**.
 
     <br>![alt text](../ex6/images/dev_space.png)
 2. In the application list click on **bookshop-srv**.
@@ -91,4 +94,4 @@ In this exercise, we will manage the assignment and deployment of Cloud Transpor
 ## Summary
 In this exercise you have learned how to deploy changes via Feature in SAP Cloud ALM through your landscape. In addition, you were able to keep track by using the Feature Traceability and confirm the correct function in Production.
 
-Congratulations! You have successfully completed the hands-on session!
+**Congratulations! You have successfully completed the hands-on session!**
