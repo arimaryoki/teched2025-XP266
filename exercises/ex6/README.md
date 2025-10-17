@@ -2,7 +2,7 @@
 
 In this exercise, we will manage the assignment and deployment of Cloud Transport Management service transport requests in SAP Cloud ALM. By managing the lifecycle of your Feature you can keep track of your changes with a governed process. This includes confirmation of successful test in Quality Assurance and the approval for the deployment to the Production environment. Eventually you can validate the deployed application in the Production environment.
 
-## Exercise 6.0 - Manage the lifefcylce of your feature
+## Exercise 6.0 - Manage the lifecycle of your feature
 
 1. Go to the **Features** application in [SAP Cloud ALM](https://xp266-calm-lf1zy9xc.eu10-004.alm.cloud.sap/launchpad#Shell-home).
 2. Go to **your Feature** created in Exercise 2.
@@ -26,7 +26,7 @@ In this exercise, we will manage the assignment and deployment of Cloud Transpor
 
     <br>![alt text](../ex6/images/transport_assigned.png)
 
-Congratulations! You have successfully documented your changes in the Feature.
+**Congratulations!** You have successfully documented your changes in the Feature.
 
 ## Exercise 6.1 - Deploy and monitor changes in your Quality Assurance and Production environment
 
@@ -66,7 +66,7 @@ Congratulations! You have successfully documented your changes in the Feature.
 
     <br>![alt text](../ex6/images/deployed_in_PRD.png)
 
-This concludes your deployment to production. Awesome!
+This concludes your deployment to production. **Awesome!**
 
 ## Exercise 6.2 - Find and access the deployed applications
 
