@@ -18,7 +18,7 @@ In this optional exercise, you will create a new transport request using **SAP C
 7. Finally choose a name e.g. **Teched-Development-Project-Mobile**, optionally a description and leave the Dev Space as **Mobile**.
         <br>![](../ex4/images/sapbuild_create_project_name.png)
 8. Confirm with **Review** and **Create**.
-9. Your project of Type **Mobile Development Kit Application** will now be be created. Once the creation is done, click the project name to open the **Business Application Studio**.
+9. Your project of Type **Mobile Development Kit Application** will now be created. Once the creation is done, click the project name to open the **Business Application Studio**.
         <br>![](../ex4/images/sapbuild_project.png)
 
 ## Exercise 4.1 - Access Mobile Services and add a new Feature
@@ -26,9 +26,11 @@ In this optional exercise, you will create a new transport request using **SAP C
 In the previous you have opened your **Mobile Development Kit Application** project in **Business Application Studio**.
 
 1. In the **Business Application Studio** Storyboard, click on **Add a new Mobile Services app**.
-        <br>![](../ex4/images/bas_add.png)
-2. Sign to Cloud Foundry environment, generate a new **SSO passcode** and copy it to the corresponding input field. Confirm with **Sign In**.
+   <br>![](../ex4/images/bas_add.png)
+2. Sign to Cloud Foundry environment, generate a new **SSO passcode** and copy it to the corresponding input field.
+Finally, confirm with **Sign In**:
         <br>![](../ex4/images/bas_cf_sign_in.png)
+>Please note: When clicking "Open a new browser page to generate your SSO passcode", you might be asked for a sign in method. Choose the "techEd idp" to sign in. The origin key is "tdct3ched1-platform".
 3. Select the target **org** **xp266dev** and **space** **dev** and click **Apply**.
         <br>![](../ex4/images/bas_cf_org_space.png)
 4. A new **Mobile Application tab** opens with the two sample Mobile Applications visible.

@@ -44,6 +44,14 @@ At the end, you will access the SAP BTP cockpit and SAP BTP accounts that have b
 | XP266_QA                  |  Dedicated  | **QA** is one of the target SAP BTP subaccount where transport requests will be deployed to during this session.                              |
 | XP266_PROD                |  Dedicated  | **PROD** is one of the target SAP BTP subaccount where transport requests will be deployed to during this session.                            |
 
+## Please note!
+
+When this screen appears, always log in with ``tdct3ched1.accounts.ondemand.com``:
+
+![TechED idp](./images/image.png)
+
+Origin Key: tdct3ched1-platform
+
 ## Summary
 
 Now that you have everything you need to successfully go through this TechEd session:
