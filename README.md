@@ -11,7 +11,7 @@ This repository contains the material for the SAP TechEd 2025 session called XP2
 Learn how to deliver content on SAP BTP in enterprise environments across staged DEV, TEST, and PROD landscapes—through the example of transporting development changes in SAP Build solutions. Gain hands-on experience with the interplay of SAP Content Agent service, SAP Cloud Transport Management service, and the SAP Cloud ALM solution.
 
 ## **Main scenario covered during this session:**
-Within this hands-on tutorial, we will cover:
+Within this hands-on tutorial, we will cover::
 
 1. Set up your delivery pipeline and transport landscape
 2. Maintain your feature in Cloud ALM
